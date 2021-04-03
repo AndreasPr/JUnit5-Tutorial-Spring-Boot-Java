@@ -1,3 +1,3 @@
-# JUnit5-Tutorial-Spring-Boot
+# JUnit5-Tutorial
 
-Implemented in Java
+Implemented in Spring-Boot
